@@ -1,8 +1,0 @@
-{
-  "name": "wouldurather-api",
-  "version": "1.0.0",
-  "dependencies": {
-    "@sparticuz/chromium": "^131.0.0",
-    "playwright-core": "1.48.0"
-  }
-}
